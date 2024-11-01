@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Page\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-30 19:20+0100\n"
+"PO-Revision-Date: 2010-12-30 19:24+0100\n"
+"Last-Translator: Laurent Menu <menu.laurent@gmail.com>\n"
+"Language-Team: Laurent Menu <menu.laurent@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: /Users/underwarz/Downloads/Plugins WP/\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SearchPath-0: wp-page\n"
+
+#: wp-page/wp-page.php:112
+msgid "Title:"
+msgstr "Titre :"
+
+#: wp-page/wp-page.php:117
+msgid "Choose your page:"
+msgstr "Choisissez la page :"
+
+#: wp-page/wp-page.php:126
+msgid "Split text by:"
+msgstr "Couper le texte par :"
+
+#: wp-page/wp-page.php:128
+msgid "Character"
+msgstr "Caractère"
+
+#: wp-page/wp-page.php:130
+msgid "Word"
+msgstr "Mot"
+
+#: wp-page/wp-page.php:134
+msgid "Limit:"
+msgstr "Limite :"
+
+#: wp-page/wp-page.php:136
+msgid "no limit"
+msgstr "pas de limite"
+
+#: wp-page/wp-page.php:140
+msgid "If no limit, translate HTML tags ?"
+msgstr "Si pas de limite, traduire les codes HTML ?"
+
+#: wp-page/wp-page.php:142
+#: wp-page/wp-page.php:150
+#: wp-page/wp-page.php:158
+#: wp-page/wp-page.php:171
+#: wp-page/wp-page.php:185
+msgid "Yes"
+msgstr "Oui"
+
+#: wp-page/wp-page.php:144
+#: wp-page/wp-page.php:152
+#: wp-page/wp-page.php:160
+#: wp-page/wp-page.php:173
+#: wp-page/wp-page.php:187
+msgid "No"
+msgstr "Non"
+
+#: wp-page/wp-page.php:148
+msgid "Show the three dots \"...\":"
+msgstr "Afficher les trois points \"...\" :"
+
+#: wp-page/wp-page.php:156
+msgid "Show \"More\" link:"
+msgstr "Afficher le lien \"Lire la suite\" :"
+
+#: wp-page/wp-page.php:164
+msgid "\"More\" link text:"
+msgstr "Texte du lien \"Lire la suite\" :"
+
+#: wp-page/wp-page.php:169
+msgid "Show the post thumbnail:"
+msgstr "Afficher les miniatures :"
+
+#: wp-page/wp-page.php:177
+msgid "If show post thumbnail, insert the \"add_image_size\" reference:"
+msgstr "Si les images sont affiché, insérer la référence du \"add_image_size\" :"
+
+#: wp-page/wp-page.php:179
+msgid "Ex: sidebar-thumb"
+msgstr "Ex : sidebar-thumb"
+
+#: wp-page/wp-page.php:183
+msgid "Make the thumbnail clickable:"
+msgstr "Rendre cliquable les miniatures :"
+
